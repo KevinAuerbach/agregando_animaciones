@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: violet;
+    background-image: linear-gradient(to bottom, rgb(197, 23, 197), pink)
 }
 
 header nav ul {
@@ -32,6 +32,7 @@ header nav ul li a {
     color: pink;
     font-family: 'Permanent Marker', cursive;
     margin: 5px;
+    transition: 2s;
 }
 
 .encabezadoPrincipal {
